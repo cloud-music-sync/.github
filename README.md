@@ -5,7 +5,7 @@
 ### Synchronize Your Music Across the Cloud
 
 [![Organization](https://img.shields.io/badge/Organization-cloud--music--sync-blue?style=for-the-badge&logo=github)](https://github.com/cloud-music-sync)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-Open%20Source-green?style=for-the-badge)](https://github.com/cloud-music-sync)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/cloud-music-sync)
 
 </div>
